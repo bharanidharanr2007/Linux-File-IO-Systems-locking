@@ -154,6 +154,12 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 
+<img width="445" height="215" alt="Screenshot 2025-11-16 225816" src="https://github.com/user-attachments/assets/34db67bc-1a37-4b1c-95c6-21797cef98c9" />
+
+<img width="744" height="746" alt="Screenshot 2025-11-16 230021" src="https://github.com/user-attachments/assets/d9a2f40e-2465-4b11-b1b8-1db02ca47bbe" />
+
+
+<img width="765" height="585" alt="Screenshot 2025-11-16 230038" src="https://github.com/user-attachments/assets/8d4b9d51-a1af-4984-abd6-d304d2e245ee" />
 
 
 
